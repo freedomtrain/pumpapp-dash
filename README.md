@@ -6,7 +6,7 @@ This app is still on the development stage and should not deployed publicly as I
 ## Quick Start
 Install required modules in requirements.txt
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 Launch the app
 ```
