@@ -10,7 +10,9 @@ Install required modules in requirements.txt
 ```
 pip3 install -r requirements.txt
 ```
-Launch the app
+Launch the app (depending on the system but it has to run with Python 3) 
 ```
 python3 run.py
+or
+python run.py
 ```
